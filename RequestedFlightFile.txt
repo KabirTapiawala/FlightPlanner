@@ -1,0 +1,25 @@
+Here are the best routes from El Paso to Phoenix based on cost:
+Route 1: El Paso -> Phoenix Cost: 180, Time: 110
+Route 2: El Paso -> Phoenix Cost: 185, Time: 115
+Route 3: El Paso -> Dallas -> Phoenix Cost: 520, Time: 230
+
+Here are the best routes from Phoenix to Dallas based on time:
+Route 1: Phoenix -> Dallas Cost: 300, Time: 130
+Route 2: Phoenix -> Dallas Cost: 310, Time: 135
+Route 3: Phoenix -> El Paso -> Dallas Cost: 400, Time: 210
+
+Here are the best routes from Dallas to Atlanta based on cost:
+Route 1: Dallas -> Atlanta Cost: 245, Time: 85
+Route 2: Dallas -> Atlanta Cost: 250, Time: 80
+Route 3: Dallas -> Phoenix -> Atlanta Cost: 625, Time: 345
+
+Here are the best routes from Atlanta to Los Angeles based on time:
+Route 1: Atlanta -> Los Angeles Cost: 350, Time: 240
+Route 2: Atlanta -> Los Angeles Cost: 340, Time: 245
+Route 3: Atlanta -> Dallas -> Los Angeles Cost: 655, Time: 255
+
+Here are the best routes from Los Angeles to Dallas based on cost:
+Route 1: Los Angeles -> Dallas Cost: 400, Time: 180
+Route 2: Los Angeles -> Dallas Cost: 405, Time: 175
+Route 3: Los Angeles -> Phoenix -> Dallas Cost: 510, Time: 280
+

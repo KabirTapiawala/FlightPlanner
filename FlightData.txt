@@ -1,0 +1,16 @@
+15
+El Paso|Phoenix|180|110
+Phoenix|El Paso|185|115
+Dallas|Atlanta|250|80
+Atlanta|Dallas|245|85
+Los Angeles|Atlanta|350|240
+Atlanta|Los Angeles|340|245
+Dallas|Los Angeles|400|180
+Los Angeles|Dallas|405|175
+Phoenix|Dallas|300|130
+Dallas|Phoenix|310|135
+El Paso|Dallas|220|100
+Dallas|El Paso|225|105
+Phoenix|Atlanta|330|210
+Atlanta|Phoenix|325|215
+Los Angeles|Phoenix|210|150
