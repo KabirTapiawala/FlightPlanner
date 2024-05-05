@@ -15,9 +15,14 @@ This Flight Management System calculates optimal travel routes between major cit
 - Git, if you wish to clone the repository.
 
 ### Installation
-Clone the repository using the following command: git clone https://github.com/KabirTapiawala/flight-management-system.git
-Navigate to the project directory: cd flight-management-system
-
+Clone the repository using the following command:
+```bash
+git clone https://github.com/KabirTapiawala/flight-management-system.git
+```
+Navigate to the project directory:
+```bash
+ cd flight-management-system
+```
 ### Setup
 Ensure that the `FlightData.txt` and `RequestedFlightFile.txt` files are correctly formatted and placed in the project directory.
 
